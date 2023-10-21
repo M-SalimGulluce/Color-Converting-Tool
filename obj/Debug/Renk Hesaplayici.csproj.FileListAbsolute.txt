@@ -1,0 +1,78 @@
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici\bin\Debug\Renk Hesaplayici.exe.config
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici\bin\Debug\Renk Hesaplayici.exe
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici\bin\Debug\Renk Hesaplayici.pdb
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici\obj\Debug\Renk Hesaplayici.csproj.AssemblyReference.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici\obj\Debug\Renk_Hesaplayici.Form1.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici\obj\Debug\Renk_Hesaplayici.Properties.Resources.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici\obj\Debug\Renk Hesaplayici.csproj.GenerateResource.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici\obj\Debug\Renk Hesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici\obj\Debug\Renk Hesaplayici.exe
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici\obj\Debug\Renk Hesaplayici.pdb
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici\bin\Debug\Renk Hesaplayici.exe.config
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici\bin\Debug\Renk Hesaplayici.exe
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici\bin\Debug\Renk Hesaplayici.pdb
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici\obj\Debug\Renk Hesaplayici.csproj.AssemblyReference.cache
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici\obj\Debug\Renk_Hesaplayici.Form1.resources
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici\obj\Debug\Renk_Hesaplayici.Properties.Resources.resources
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici\obj\Debug\Renk Hesaplayici.csproj.GenerateResource.cache
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici\obj\Debug\Renk Hesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici\obj\Debug\Renk Hesaplayici.exe
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici\obj\Debug\Renk Hesaplayici.pdb
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.5\bin\Debug\Renk Hesaplayici.exe.config
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.5\bin\Debug\Renk Hesaplayici.exe
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.5\bin\Debug\Renk Hesaplayici.pdb
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.5\obj\Debug\Renk Hesaplayici.csproj.AssemblyReference.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.5\obj\Debug\Renk_Hesaplayici.Form1.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.5\obj\Debug\Renk_Hesaplayici.Properties.Resources.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.5\obj\Debug\Renk Hesaplayici.csproj.GenerateResource.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.5\obj\Debug\Renk Hesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.5\obj\Debug\Renk Hesaplayici.exe
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.5\obj\Debug\Renk Hesaplayici.pdb
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.5\bin\Debug\Renk Hesaplayici.exe.config
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.5\bin\Debug\Renk Hesaplayici.exe
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.5\bin\Debug\Renk Hesaplayici.pdb
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.5\obj\Debug\Renk Hesaplayici.csproj.AssemblyReference.cache
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.5\obj\Debug\Renk_Hesaplayici.Form1.resources
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.5\obj\Debug\Renk_Hesaplayici.Properties.Resources.resources
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.5\obj\Debug\Renk Hesaplayici.csproj.GenerateResource.cache
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.5\obj\Debug\Renk Hesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.5\obj\Debug\Renk Hesaplayici.exe
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.5\obj\Debug\Renk Hesaplayici.pdb
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.6\bin\Debug\Renk Hesaplayici.exe.config
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.6\bin\Debug\Renk Hesaplayici.exe
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.6\bin\Debug\Renk Hesaplayici.pdb
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.6\obj\Debug\Renk Hesaplayici.csproj.AssemblyReference.cache
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.6\obj\Debug\Renk_Hesaplayici.Form1.resources
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.6\obj\Debug\Renk_Hesaplayici.Properties.Resources.resources
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.6\obj\Debug\Renk Hesaplayici.csproj.GenerateResource.cache
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.6\obj\Debug\Renk Hesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.6\obj\Debug\Renk Hesaplayici.exe
+C:\Users\Ar-Ge\source\repos\Dede VS-2023\Renk Hesaplayici 1.0.6\obj\Debug\Renk Hesaplayici.pdb
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\bin\Debug\Renk Hesaplayici.exe.config
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\bin\Debug\Renk Hesaplayici.exe
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\bin\Debug\Renk Hesaplayici.pdb
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\obj\Debug\Renk Hesaplayici.csproj.AssemblyReference.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\obj\Debug\Renk_Hesaplayici.Form1.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\obj\Debug\Renk_Hesaplayici.Properties.Resources.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\obj\Debug\Renk Hesaplayici.csproj.GenerateResource.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\obj\Debug\Renk Hesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\obj\Debug\Renk Hesaplayici.exe
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\obj\Debug\Renk Hesaplayici.pdb
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\obj\Debug\Renk_Hesaplayici.help.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\bin\Debug\tr-TR\Renk Hesaplayici.resources.dll
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\obj\Debug\Renk_Hesaplayici.Form1.tr-TR.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6\obj\Debug\tr-TR\Renk Hesaplayici.resources.dll
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\bin\Debug\Color Converter.exe.config
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\bin\Debug\Color Converter.exe
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\bin\Debug\Color Converter.pdb
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\bin\Debug\tr-TR\Color Converter.resources.dll
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\obj\Debug\Renk Hesaplayici.csproj.AssemblyReference.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\obj\Debug\Renk_Hesaplayici.Form1.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\obj\Debug\Renk_Hesaplayici.help.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\obj\Debug\Renk_Hesaplayici.Properties.Resources.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\obj\Debug\Renk_Hesaplayici.Form1.tr-TR.resources
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\obj\Debug\Renk Hesaplayici.csproj.GenerateResource.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\obj\Debug\Renk Hesaplayici.csproj.CoreCompileInputs.cache
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\obj\Debug\tr-TR\Color Converter.resources.dll
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\obj\Debug\Color Converter.exe
+C:\Users\Dede\source\repos\VS-2022 Dede\Renk Hesaplayici 1.0.6-en\obj\Debug\Color Converter.pdb
